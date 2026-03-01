@@ -59,7 +59,7 @@
 
 ## 🌐 Connect With Me
 
-📧 Email: YOUR_EMAIL  
+📧 Email: ravibhaichavda4653@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/ravi-chavda-12aa94341/  
 💻 LeetCode: https://leetcode.com/ravichavda  
 🏆 Codeforces: https://codeforces.com/profile/r_chavda_5689  
