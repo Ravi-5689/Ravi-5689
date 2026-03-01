@@ -14,7 +14,6 @@
 
 ## 🔥 Current Focus
 
-- 💻 Building AI Chatbot (Java & Python concepts)
 - 🏆 Competitive Programming (DSA + Problem Solving)
 - 🌐 Backend Development using Spring Boot & JDBC
 - 🗄️ Database Design (SQL, MySQL, Oracle)
@@ -64,7 +63,7 @@
 🔗 LinkedIn: https://linkedin.com/in/ravi-chavda-12aa94341/  
 💻 LeetCode: https://leetcode.com/ravichavda  
 🏆 Codeforces: https://codeforces.com/profile/r_chavda_5689  
-🌍 Portfolio: 
+🌍 Portfolio: https://ravi-5689.github.io/My-Portfolio/
 
 ---
 
