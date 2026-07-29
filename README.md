@@ -1,88 +1,102 @@
-<h1 align="center">Hi 👋, I'm Ravi Chavda</h1>
-<h3 align="center">B.Tech Computer Engineering Student | Backend & AI Enthusiast</h3>
+# Hi 👋, I'm Ravi Chavda
+
+### Java Backend Developer | Computer Engineering Student | Software Developer
+
+I'm a Computer Engineering student with a strong passion for **Java Backend Development**. I enjoy building secure, scalable, and efficient web applications using modern backend technologies. Alongside Java, I have experience with Python, web development, and continuously explore new technologies to expand my software engineering skills.
 
 ---
 
-## 🚀 About Me
+## 💻 Programming Languages
 
-🎓 B.Tech Computer Engineering student at Dharmsinh Desai University  
-💡 Strong interest in Backend Development & AI Systems  
-🧠 Currently mastering Data Structures, DBMS & System Design  
-⚡ Love solving real-world problems using code  
+⭐ **Primary Language**
 
----
+* Java
 
-## 🔥 Current Focus
+📚 **Other Languages**
 
-- 🏆 Competitive Programming (DSA + Problem Solving)
-- 🌐 Backend Development using Spring Boot & JDBC
-- 🗄️ Database Design (SQL, MySQL, Oracle)
-
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-- C
-- C++
-- Java
-- Python (Basics)
-
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- PHP
-
-### 🗄️ Database
-- MySQL
-- Oracle
-- SQL (Advanced Queries, Joins, Subqueries)
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- XAMPP
-- LeetCode
-- Codeforces
+* Python
+* JavaScript
+* C#
+* Dart
+* SQL
+* HTML5
+* CSS3
 
 ---
 
-## 📊 What I’m Working On
+## 🚀 Backend Development
 
-- Competitive Buddy Project
-- AI Mentor Module Concept
-- Movie Booking Portal (PHP + MySQL)
-- Backend APIs using Spring Boot
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: ravibhaichavda4653@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/ravi-chavda-12aa94341/  
-💻 LeetCode: https://leetcode.com/ravichavda  
-🏆 Codeforces: https://codeforces.com/profile/r_chavda_5689  
-🌍 Portfolio: https://ravi-5689.github.io/My-Portfolio/
+* Spring Boot
+* Spring MVC
+* Spring Security
+* Hibernate
+* JPA
+* JDBC
+* REST APIs
+* Django
 
 ---
 
-## 📈 GitHub Stats
+## 🎨 Frontend Development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravi-5689&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-5689&theme=tokyonight" />
-</p>
+* React
+* Bootstrap
+* HTML5
+* CSS3
 
 ---
 
-## 💡 Vision
+## 🗄️ Databases
 
-To become a strong Backend & AI Engineer capable of building scalable systems and intelligent applications.
+* MySQL
+* PostgreSQL
 
 ---
 
-⭐ "Keep coding. Keep growing."
+## 🛠️ Tools & Technologies
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* Visual Studio Code
+* Postman
+* XAMPP
+
+---
+
+## 📂 Featured Projects
+
+### 🩸 Blood Bank Management System
+
+**Java | Spring Boot | Spring Security | Hibernate | JPA | MySQL**
+
+A secure Blood Bank Management System featuring role-based authentication, donor management, hospital management, donation records, and RESTful APIs following a layered architecture.
+
+---
+
+### 🏆 Competitive Buddy
+
+**Python | Django | MySQL | HTML | CSS | JavaScript**
+
+A competitive programming platform that helps users track coding contests, manage programming profiles, and view competitive programming statistics through an intuitive dashboard.
+
+---
+
+## 🌟 Interests
+
+* Java Backend Development
+* Spring Boot
+* REST API Development
+* Software Engineering
+* Database Design
+* Problem Solving
+* Data Structures & Algorithms
+* Full Stack Development
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/Chavda-Ravi
+* LinkedIn:https://www.linkedin.com/in/ravi-chavda-12aa94341/
+* Email: ravibhaichavda4653@gmail.com
